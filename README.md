@@ -1,4 +1,4 @@
-# Liquidity-Adjusted Value at Risk (LAVaR) Dashboard
+# Liquidity-Adjusted Value at Risk (LAVaR) 
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)](https://python.org)
 [![Plotly](https://img.shields.io/badge/Plotly-5.x-purple?style=flat-square)](https://plotly.com)
