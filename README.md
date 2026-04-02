@@ -254,22 +254,22 @@ The `index.html` dashboard contains four interactive charts:
 **Chart 1 — Return Distribution**
 Histogram of daily returns with vertical lines marking the VaR (95%) and LAVaR thresholds. Visually demonstrates how LAVaR sits further into the left tail than VaR alone.
  
-![Return Distribution](assets/graphs/chart1_return_distribution.png)
+![Return Distribution](assets/graphs/chart1.png)
  
 **Chart 2 — VaR vs LAVaR Stacked Bar**
 Stacked bar showing VaR (purple) and LC (orange) as components of total LAVaR. The annotation labels the total LAVaR in yellow. Communicates the LC-to-LAVaR ratio at a glance.
  
-![VaR vs LAVaR](assets/graphs/chart2_var_lavar_bar.png)
+![VaR vs LAVaR](assets/graphs/chart4.png)
  
 **Chart 3 — Rolling 30-day LAVaR**
 Time series of rolling LAVaR, VaR, and LC over the 2-year sample. Captures regime changes, stress periods, and the co-movement of market risk and liquidity risk.
  
-![Rolling LAVaR](assets/graphs/chart3_rolling_lavar.png)
+![Rolling LAVaR](assets/graphs/chart3.png)
  
 **Chart 4 — ADV Sensitivity**
 Grouped bar chart showing how VaR (constant) and LC (varies) respond to different assumed average daily volumes, from $1M (micro-cap) to $12.3B (AAPL). Demonstrates the model's applicability beyond large-cap stocks.
  
-![ADV Sensitivity](assets/graphs/chart4_adv_sensitivity.png)
+![ADV Sensitivity](assets/graphs/chart2.png)
  
 ---
  
